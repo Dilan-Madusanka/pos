@@ -33,7 +33,7 @@ Webshop uses:
   
 ## Getting Started!
 ```
-git clone https://github.com/Nushrat-Nishi/pos
+git clone https://github.com/Dilan-Madusanka/pos
 cd pos
 ```
   - Change the *user name* & *Password* in *pos/src/main/resources/application.properties* file according to your database.
